@@ -1,16 +1,6 @@
 # music_app
+This repo serves as the solution for the Relu Consultancy Assignment
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# How It Looks Like
+<img src="https://user-images.githubusercontent.com/69889824/181037534-88701896-089f-4eef-9890-b12582be1dc4.png" width="300" height="650"> <img src="https://user-images.githubusercontent.com/69889824/181037601-4d93bbd2-c77f-4a7c-82d8-c42a541f901a.png" width="300" height="650"> 
+<img src="https://user-images.githubusercontent.com/69889824/181037570-220108b0-ac38-4d3b-9791-0df86dff97af.png" width="300" height="650"> 
